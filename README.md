@@ -1,4 +1,5 @@
 Festival Sanremo Analysis with LOOKER-STUDIO
+
 Obiettivo del report: analisi dei dati relativi ai numeri del Festival: cachet, ascolti, vendite. Quanto vale vincere il festival oggi?
 Fonti dei dati e crezione del dataset
 Non essendo disponibili tutti i dati necessari per la mia analisi, li ho repperiti dalle seguenti fonti:
