@@ -13,6 +13,6 @@ Non essendo disponibili tutti i dati necessari per la mia analisi, li ho repperi
 
 Dopo aver effettuato una pulizia dei dati e le modifiche utili alle analisi tramite Power Query (sistemazione date, accoda query, sistemazione campi non riconosciuti correttamente, aggiunta di campi, gestione errori/null ) ho caricato le tabelle su Google Looker Stdio per effettuare dei report sintetici e "parlanti".
 
-Report: https://lookerstudio.google.com/s/pJD5kgiPkeM
+Report: https://lookerstudio.google.com/s/reA1wJlZ3lE
 
 
